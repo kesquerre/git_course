@@ -8,4 +8,5 @@ Han Solo
 
 Rey
 Finn
+Kylo Ren
 Poe Dameron
