@@ -9,7 +9,4 @@ Han Solo
 Rey
 Finn
 Kylo Ren
-<<<<<<< HEAD
 Poe Dameron
-=======
->>>>>>> 317bf8e... Adicionado o personagem Kylo Ren.
