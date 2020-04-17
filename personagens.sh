@@ -10,3 +10,5 @@ Rey
 Finn
 Kylo Ren
 Poe Dameron
+Chewbacca
+Han Solo
